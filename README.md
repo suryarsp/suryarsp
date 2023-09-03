@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building React JS applications<br>🤝 I’m looking for help with  creating monolithic applications<br>🌱 I’m currently learning Next JS V12 and ES Build<br>💬 Ask me about suitable npm package for your needs<br>⚡ Fun fact - I like to code but less
+🔭 I’m currently working on building Single Page applications<br>🤝 I’m looking for help with  creating monolithic applications<br>🌱 I’m currently learning Next JS V13 and ES Build<br>💬 Ask me about suitable npm package for your needs<br>⚡ Fun fact - I like to code but less
 
 
 ## 🌐 Socials:
