@@ -1,3 +1,20 @@
+# [Archived] Suryarsp
+
+> [!WARNING]
+> **DECOMMISSIONED & ARCHIVED**
+> This repository is no longer actively maintained and has been decommissioned. It is preserved here for historical reference only.
+
+## Overview
+A legacy application built by suryarsp.
+
+---
+*Note: This repository was automatically archived on 2026-06-06.*
+
+
+
+## Original Readme
+<details><summary>Click to expand</summary>
+
 # 💫 About Me:
 🔭 I’m currently working on building Single Page applications<br>🤝 I’m looking for help with  creating monolithic applications<br>🌱 I’m currently adding skillset on Server Side Apps<br>💬 Ask me about suitable npm package for your needs<br>⚡ Fun fact - I like to code but less
 
@@ -22,3 +39,6 @@
 [![](https://visitcount.itsvg.in/api?id=suryarsp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+</details>
